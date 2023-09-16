@@ -1,4 +1,4 @@
-# CodSoft_Task_1
+# Number Game
 Task-1: Number Game
 <br/>
 Language: Java
